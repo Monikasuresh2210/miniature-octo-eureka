@@ -1,1 +1,1 @@
-# miniature-octo-eureka
+# project documentation and submission
